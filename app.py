@@ -48,6 +48,7 @@ st.markdown("")
 st.markdown("""
 **FAQs:**
 - You can take the quiz without sharing your information by selecting 'No, I don't consent' below.
+- 2121, 2121
 - You must be 18 years or older to participate. If you are younger, you can select 'No, I don't consent' to take the quiz without sharing your information.
 - If you consent to share your answers, we will ask you optional questions about your age, gender, education, political leaning, country, and perceived ability. We will only record your answers to these questions, your MIST answers and results, and app ID.
 - If you consented and want your data deleted later, you can email us (yk408@cam.ac.uk) with your app ID within one year of data submission (please include 'Delete MIST' in the subject line).
